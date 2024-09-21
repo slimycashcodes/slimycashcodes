@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rahul Suresh@slimycashcodes
 - 👀 I’m interested in Coding and Problem Solving
-- 🌱 I’m currently learning Bachelors degree with a major on computer science
-- 💞️ I’m looking to collaborate on open-source projects
-- 📫 You can reach me @rahulhvdc@gmail.com or https://www.linkedin.com/in/rahul-suresh-92a124256/
+- 🌱 I’m currently learning Bachelors degree with a major on Computer Science and Engineering in SSNCE
+- 💞️ I’m looking to collaborate on open-source projects and solve Real-world problems
+- 📫 You can reach me @rahulhvdc@gmail.com or www.linkedin.com/in/rahulsuresh-cs
 - ⚡ Fun fact: I am human , are you a one ?
 
 <!---
