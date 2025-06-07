@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Rahul Suresh@slimycashcodes<br>I’m interested in Coding and Problem Solving<br>I’m currently learning Bachelors degree with a major on Computer Science and Engineering in SSNCE<br>I’m looking to collaborate on open-source projects and solve Real-world problems<br>You can reach me @rahulhvdc@gmail.com or www.linkedin.com/in/rahulsuresh-cs<br>Fun fact: You can take away my Tools , my Devices and even my entire wealth but there is one thing which you cannot take away from me that is 'I AM RAHUL SURESH' 😂😅
+Hi, I’m Rahul Suresh@slimycashcodes<br>I’m interested in Coding and Problem Solving<br>I’m currently learning Bachelors degree with a major on Computer Science and Engineering in SSNCE<br>I’m looking to collaborate on open-source projects and solve Real-world problems<br>You can reach me @rahulhvdc@gmail.com or www.linkedin.com/in/rahulsuresh-cs<br>Fun fact: My IDE sees more of my emotions than what most people do.
 
 
 # 💻 Tech Stack:
