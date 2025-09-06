@@ -25,8 +25,11 @@ Proficient in:
 
 ---
 
-# 📈 Profile Visitors  
-[![](https://visitcount.itsvg.in/api?id=slimycashcodes&icon=0&color=0)](https://visitcount.itsvg.in)  
+# 📈 Profile Stats  
+
+<img src="https://komarev.com/ghpvc/?username=slimycashcodes&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/slimycashcodes?style=social" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/slimycashcodes?style=social" alt="GitHub Stars" />
 
 ---
 
