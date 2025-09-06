@@ -1,8 +1,6 @@
 # 💫 About Me  
 Hi, I’m **Rahul Suresh (@slimycashcodes)** 👋  
 - 🎓 Pursuing **B.E. in Computer Science and Engineering** at **SSNCE**  
-- 💡 Passionate about **Coding** and **Problem Solving**  
-- 🌍 Exploring **open-source collaborations** and tackling **real-world problems**  
 - 📬 Reach me at: **[rahulhvdc@gmail.com](mailto:rahulhvdc@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/rahulsuresh210)  
 - ⚡ Fun fact: *My IDE understands my mood swings better than most people*  
 - 🧩 P.S: **SLIMY CASH** = *Supreme Logical Intelligence Mastering Yotta-scale Control & Automation with Strategical Heuristics*  
@@ -12,10 +10,7 @@ Hi, I’m **Rahul Suresh (@slimycashcodes)** 👋
 # 💻 Tech Stack  
 Proficient in:  
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 
 ---
 
