@@ -2,8 +2,6 @@
 Hi, I’m **Rahul Suresh (@slimycashcodes)** 👋  
 - 🎓 Pursuing **B.E. in Computer Science and Engineering** at **SSNCE**  
 - 📬 Reach me at: **[rahulhvdc@gmail.com](mailto:rahulhvdc@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/rahulsuresh210)  
-- ⚡ Fun fact: *My IDE understands my mood swings better than most people*  
-- 🧩 P.S: **SLIMY CASH** = *Supreme Logical Intelligence Mastering Yotta-scale Control & Automation with Strategical Heuristics*  
 
 ---
 
@@ -19,8 +17,7 @@ Hi, I’m **Rahul Suresh (@slimycashcodes)** 👋
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 
 ### 🤖 AI / ML Frameworks  
-![Gradio](https://img.shields.io/badge/Gradio-%23FF6F00.svg?style=for-the-badge&logo=gradio&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)  
+![Gradio](https://img.shields.io/badge/Gradio-%23FF6F00.svg?style=for-the-badge&logo=gradio&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)  
 
 ---
 
@@ -38,9 +35,6 @@ Hi, I’m **Rahul Suresh (@slimycashcodes)** 👋
 # 📈 Profile Stats  
 
 <img src="https://komarev.com/ghpvc/?username=slimycashcodes&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/slimycashcodes?style=social" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/slimycashcodes?style=social" alt="GitHub Stars" />
-
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.”*  
